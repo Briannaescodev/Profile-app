@@ -1,0 +1,29 @@
+body {
+    background-color: #af91f5;
+}
+h2 {
+    font-weight: 700;
+}
+.container {
+    padding : 40px 
+}
+.quote-container p {
+    font-size: clamp(23px, 4vw, 26px);
+    font-weight: 700;
+}
+
+.quote-container q {
+    font-size: 105%;
+}
+
+.grid-container {
+    background-color: coral;
+}
+
+.grid-containerh2 {
+    background-color: rgb(138, 255, 80);
+} 
+
+.grid-containerh3 {
+    background-color: rgb(255, 200, 0);
+} 
